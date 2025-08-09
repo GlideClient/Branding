@@ -1,0 +1,2 @@
+# Branding
+The GlideClient branding
